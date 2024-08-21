@@ -1,7 +1,8 @@
 Simple Calculator
-this is a simple, responsive calculator built using HTML and CSS. The calculator is designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a simple, responsive calculator built using HTML and CSS. The calculator is designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 Features:
+
 User-Friendly Interface:
 The calculator has a clean and minimalistic design, making it easy to use.
 Responsive Design:
