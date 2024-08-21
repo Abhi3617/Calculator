@@ -1,4 +1,5 @@
 Simple Calculator
+
 This is a simple, responsive calculator built using HTML and CSS. The calculator is designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 Features:
@@ -13,5 +14,6 @@ Clear Function:
 Includes a "C" button to quickly reset the current calculation.
 
 Technologies Used:
+
 HTML5: For structuring the layout of the calculator.
 CSS3: For styling the calculator, including layout, colors, and responsive design.
